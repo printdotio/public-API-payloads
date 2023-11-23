@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://api.print.io/api/v/5/source/api/ordersearch/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "genericValues",
+      "value": "Broadway"
+    },
+    {
+      "name": "startDate",
+      "value": "2021-05-01"
+    },
+    {
+      "name": "endDate",
+      "value": "2021-05-31"
+    },
+    {
+      "name": "pageSize",
+      "value": "10"
+    },
+    {
+      "name": "page",
+      "value": "1"
+    },
+    {
+      "name": "recipeId",
+      "value": "fc366942-d5d1-4a05-ac62-4fcfb458427"
+    },
+    {
+      "name": "partnerBillingKey",
+      "value": "6rmUi7KiUIOOH7Cmp6bYnJNULDEmi/rLTLROo4f6TLM="
+    }
+  ]
+}

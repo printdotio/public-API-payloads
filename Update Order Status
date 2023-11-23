@@ -1,0 +1,29 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/orderstatus",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "name": "partnerBillingKey",
+      "value": "oeO2j1ZbfU0TaDPRrhStEyp68ZRbXK8UfWfq7BKICGY="
+    },
+    {
+      "name": "id",
+      "value": "7-12e6c2df-30ec-4347-bd40-6451eec1b2c2"
+    },
+    {
+      "name": "orderStatusName",
+      "value": "Cancelled"
+    }
+  ]
+}

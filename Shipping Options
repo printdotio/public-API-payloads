@@ -1,0 +1,21 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/v/5/source/api/shippingprices/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"Items\":[{\"SKU\":\"PhoneCase-GalaxyNote2-Matte\",\"Quantity\":1},{\"SKU\":\"PhoneCase-Glossy-GalaxyNote3\",\"Quantity\":2}],\"ShipToPostalCode\":\"115301\",\"ShipToState\":\"PA\",\"LanguageCode\":\"en\",\"CurrencyCode\":\"USD\",\"ShipToCountry\":\"US\"}"
+  }
+}

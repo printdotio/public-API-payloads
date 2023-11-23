@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://api.print.io/api/v/5/source/api/addressvalidation/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    },
+    {
+      "name": "line1",
+      "value": "12 west 29th street"
+    },
+    {
+      "name": "line2",
+      "value": ""
+    },
+    {
+      "name": "city",
+      "value": "New York"
+    },
+    {
+      "name": "state",
+      "value": "NY"
+    },
+    {
+      "name": "postalCode",
+      "value": "10001"
+    },
+    {
+      "name": "countryCode",
+      "value": "US"
+    }
+  ]
+}

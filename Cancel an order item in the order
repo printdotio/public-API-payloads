@@ -1,0 +1,25 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/updateOrder/520718/CancelItems",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "name": "partnerBillingKey",
+      "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\n  \"Ids\": [\n    6924457\n  ]\n}"
+  }
+}

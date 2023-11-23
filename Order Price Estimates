@@ -1,0 +1,21 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/v/5/source/api/price/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "40e7d704-6847-4180-9fb6-dfbd1b1ee696"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"ShipToAddress\":{\"Line1\":\"3116OliverStreet\",\"Line2\":\"Arlington\",\"City\":\"Arlington\",\"State\":\"TX\",\"CountryCode\":\"US\",\"PostalCode\":\"33156\"},\"Items\":[{\"SKU\":\"Apparel-DTG-Hoodie-Gildan-18500-XL-DarkGrey-Mens-CF\",\"Quantity\":1,\"ShipType\":\"Standard\"},{\"SKU\":\"Apparel-DTG-TShirt-NL-3600-3XL-Maroon-Mens-CF\",\"Quantity\":1,\"ShipType\":\"Standard\"},{\"SKU\":\"AppleWatchStrap-165-Gold\",\"Quantity\":1,\"ShipType\":\"Standard\"}],\"Payment\":{\"CurrencyCode\":\"USD\",\"PartnerBillingKey\":\"IPrziHCEUoVMTFcqBoeF5up2Mu27DWsEiJAzPo9dOEg=\"}}"
+  }
+}

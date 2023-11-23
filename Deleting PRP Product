@@ -1,0 +1,21 @@
+{
+  "method": "DELETE",
+  "url": "https://api.print.io/api/v/5/source/api/preconfiguredproducts/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    },
+    {
+      "name": "sku",
+      "value": "my-prp-sku-1"
+    }
+  ]
+}

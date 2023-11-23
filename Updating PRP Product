@@ -1,0 +1,21 @@
+{
+  "method": "PUT",
+  "url": "https://api.print.io/api/v/5/source/api/preconfiguredproducts/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json; charset=utf-8",
+    "text": "{\n \"Sku\": \"Test-J-3-Coaster-375x375-4Set\",\n  \"Name\": \"Test-J-3\",\n  \"Description\": \"Test space id 3\",\n  \"Items\": [\n    {\n      \"ProductId\": 67,\n      \"ProductVariantSku\": \"Coaster-375x375-4Set\",\n      \"TemplateName\": \"Single\",\n      \"Preconfigurations\": [\n        {\n          \"SpaceDesc\": \"1st Coaster\",\n          \"SpaceId\": \"2BEDF\",\n          \"Url\": \"String\"\n        },\n        {\n          \"SpaceDesc\": \"2nd Coaster\",\n          \"SpaceId\": \"D0DD1\",\n          \"Url\": \"String\"\n        },\n        {\n          \"SpaceDesc\": \"3rd Coaster\",\n          \"SpaceId\": \"3B0FD\",\n          \"Url\": \"String\"\n        },\n        {\n          \"SpaceDesc\": \"4th Coaster\",\n          \"SpaceId\": \"98905\",\n          \"Url\": \"String\"\n        }\n      ]\n    }\n  ],\n  \"Images\": [\n   {\n      \"Url\": \"String\",\n      \"Index\": 0\n   },\n   {\n      \"Url\": \"String\",\n      \"Index\": 1\n   },\n   {\n      \"Url\": \"String\",\n      \"Index\": 2\n   },\n   {\n      \"Url\": \"String\",\n      \"Index\": 3\n   },\n   {\n      \"Url\": \"String\",\n      \"Id\": \"generated-preview\"\n   }\n  ]\n}"
+  }
+}
