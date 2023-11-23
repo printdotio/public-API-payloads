@@ -1,0 +1,17 @@
+{
+  "method": "GET",
+  "url": "https://api.print.io/api/v/5/source/api/prpproducts/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "efda7e12-05fa-4748-9bbf-6471381ec9f2"
+    }
+  ]
+}

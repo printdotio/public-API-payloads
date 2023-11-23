@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://printio-geo.appspot.com/ip/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "method": "PUT",
+  "url": "https://api.print.io/api/OrderImages/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "orderId",
+      "value": "Order_ID"
+    },
+    {
+      "name": "recipeid",
+      "value": "YourRecipeID"
+    },
+    {
+      "name": "partnerBillingKey",
+      "value": "YourPartnerBillingKey"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json; charset=utf-8",
+    "text": "{\n  \"Images\": [\n    {\n      \"OrderItemId\": 1066980\n    }\n  ]\n}"
+  }
+}

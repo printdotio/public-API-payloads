@@ -1,0 +1,68 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/v/5/source/api/orders/",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json; charset=utf-8",
+    "text": {
+      "ShipToAddress": {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Line1": "79 Madison Ave",
+        "Line2": "Suite 228",
+        "City": "New York",
+        "State": "NY",
+        "CountryCode": "US",
+        "PostalCode": "10016",
+        "IsBusinessAddress": false,
+        "Phone": "0000000000",
+        "Email": "mail@test.com"
+      },
+      "BillingAddress": {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Line1": "79 Madison Ave",
+        "Line2": "Suite 228",
+        "City": "New York",
+        "State": "NY",
+        "CountryCode": "US",
+        "PostalCode": "10016",
+        "IsBusinessAddress": false,
+        "Phone": "0000000000",
+        "Email": "mail@test.com"
+      },
+      "Items": [
+        {
+          "Quantity": 1,
+          "SKU": "CanvsWrp-ImgWrp-10x10",
+          "ShipType": "standard",
+          "Images": [
+            {
+              "Url": "https://placekitten.com/3000/3000"
+            }
+          ]
+        }
+      ],
+      "Payment": {
+        "PartnerBillingKey": "oeO2j1ZbfU0TaDPRrhStEyp68ZRbXK8UfWfq7BKICGY="
+      },
+      "IsInTestMode": true,
+      "Meta": {
+        "tag": "test order",
+        "my value": "42"
+      }
+    }
+  }
+}

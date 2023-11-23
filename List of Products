@@ -1,0 +1,11 @@
+{
+  "method": "GET",
+  "url": "https://gtnadminassets.blob.core.windows.net/productdatav3/catalog.json",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ]
+}
