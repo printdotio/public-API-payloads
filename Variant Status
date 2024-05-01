@@ -1,0 +1,31 @@
+{
+  "method": "POST",
+  "url": "https://api.print.io/api/variantstatus",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "queryString": [
+    {
+      "name": "recipeid",
+      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
+    }
+  ],
+  "postData": {
+    "mimeType": "application/json; charset=utf-8",
+    "request":"{\n
+    \"Skus\": [\n
+        \"Apparel-Sublimation-Sweatshirt-M-AOP\",
+        \"Apparel-DTG-ToddlerClothing-RS-3301T-6T-Charcoal-Unisex-CFCB\",
+        \"Apparel-DTG-TShirt-TSC-2168-L-Natural-Unisex-CF\",
+        \"Apparel-DTG-Hanes-TShirt-5180-M-DeepForest-Mens-CF\",
+        \"Apparel-DTG-Tshirt-Gildan-5000-2XL-Black-Mens-CF\"],\n
+    \"CountryCode\": \"US\",\n
+    \"State\": \"NY\",\n
+    \"PostalCode\": \"10019\"
+}"
+  }
+}
