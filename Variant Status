@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json; charset=utf-8",
-    "text":"{\n \"Skus\": [\n \"Apparel-Sublimation-Sweatshirt-M-AOP\", \n \"Apparel-DTG-ToddlerClothing-RS-3301T-6T-Charcoal-Unisex-CFCB\", \n \"Apparel-DTG-TShirt-TSC-2168-L-Natural-Unisex-CF\", \n \"Apparel-DTG-Hanes-TShirt-5180-M-DeepForest-Mens-CF\", \n \"Apparel-DTG-Tshirt-Gildan-5000-2XL-Black-Mens-CF\"],\n \"CountryCode\": \"US\",\n \"State\": \"NY\",\n \"PostalCode\": \"10019\" \n}"
+    "text": "{\n \"Skus\": [\n \"Apparel-Sublimation-Sweatshirt-M-AOP\",\n \"Apparel-DTG-ToddlerClothing-RS-3301T-6T-Charcoal-Unisex-CFCB\",\n \"Apparel-DTG-TShirt-TSC-2168-L-Natural-Unisex-CF\",\n \"Apparel-DTG-Hanes-TShirt-5180-M-DeepForest-Mens-CF\",\n \"Apparel-DTG-Tshirt-Gildan-5000-2XL-Black-Mens-CF\"],\n \"CountryCode\": \"US\",\n \"State\": \"NY\",\n \"PostalCode\": \"10019\"\n}"
   }
 }
