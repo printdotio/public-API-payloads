@@ -32,6 +32,18 @@
     {
       "name": "currencyCode",
       "value": "USD"
+    },
+    {
+      "name": "compression",
+      "value": "true"
+    },
+    {
+      "name": "page",
+      "value": "1"
+    },
+    {
+      "name": "pageSize",
+      "value": "50"
     }
   ]
 }
