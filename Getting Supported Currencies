@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "url": "https://api.print.io/api/v/5/source/api/currencies/",
+  "url": "https://api.print.io/api/currencies/",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
