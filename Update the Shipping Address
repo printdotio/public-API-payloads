@@ -1,6 +1,6 @@
 {
   "method": "POST",
-  "url": "https://api.print.io/api/updateOrder/520718/ShippingAddress",
+  "url": "https://api.print.io/api/shippingAddress",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -9,6 +9,10 @@
     }
   ],
   "queryString": [
+    {
+      "name": "orderid",
+      "value": "12345"
+    },
     {
       "name": "recipeid",
       "value": "00000000-0000-0000-0000-000000000000"
