@@ -24,6 +24,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\n  \"ShipmentMethod\": [\n    {\n      \"OrderItemIds\": [1044686],\n      \"NewShippingMethod\": \"Expedited\"\n    }\n  ]\n}"
+    "text": "{\n  \"ShipmentMethods\": [\n    {\n      \"OrderItemIds\": [1044686],\n      \"NewShippingMethod\": \"Expedited\"\n    }\n  ]\n}"
   }
 }
