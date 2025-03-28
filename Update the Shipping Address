@@ -1,5 +1,5 @@
 {
-  "method": "POST",
+  "method": "PUT",
   "url": "https://api.print.io/api/shippingAddress",
   "httpVersion": "HTTP/1.1",
   "headers": [
@@ -24,6 +24,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\n  \"Address\": {\n    \"City\": \"1044686\"\n  }\n}"
+    "text": "{\n  \"Address\": {\n\"FirstName\": \"John\",\n\"LastName\": \"Doe\",\n\"Line1\": \"123 Maple Street\",\n\"Line2\": \"Apt 4B\",\n\"City\": \"Springfield\",\n\"State\": \"IL\",\n\"CountryCode\": \"US\",\n\"PostalCode\": \"62704\",\n\"Phone\": \"+1-217-555-0123\",\n\"Email\": \"john.doe@example.com\"\n}\n}"
   }
 }
