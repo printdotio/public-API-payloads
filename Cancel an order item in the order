@@ -1,6 +1,6 @@
 {
-  "method": "POST",
-  "url": "https://api.print.io/api/updateOrder/520718/CancelItems",
+  "method": "PUT",
+  "url": "https://api.print.io/api/orderCancel",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -10,8 +10,12 @@
   ],
   "queryString": [
     {
+      "name": "orderId",
+      "value": "520718"
+    },
+    {
       "name": "recipeid",
-      "value": "00000000-0000-0000-0000-000000000000"
+      "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
     },
     {
       "name": "partnerBillingKey",
