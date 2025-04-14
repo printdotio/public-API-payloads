@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"SKU\":\"PremiumPhoneCase-iPhone-12-SnapCaseGloss\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"http://app-imgs.print.io/temp/4a6d6997-347e-44a1-aef7-63f3bdc0f8b3-test092214b.jpg\",\"MaxFit\":\"true\",\"X1\":677,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
+    "text": "{\"SKU\":\"FramedCanvs-5x7-Black\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/30728_B_-72ff391a3aa24f23be8dca32a2e6822a.jpg\",\"MaxFit\":\"true\",\"X1\":677,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
   }
 }
