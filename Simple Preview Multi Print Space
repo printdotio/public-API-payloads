@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"SKU\":\"Blanket-Velveteen-Double-FinishedEdge-30x40\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"http://app-imgs.print.io/temp/4a6d6997-347e-44a1-aef7-63f3bdc0f8b3-test092214b.jpg\",\"MaxFit\":\"true\",\"X1\":677,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
+    "text": "{\"SKU\":\"Apparel-DTG-TShirt-Bella-6400-M-BlackHeather-Womens-CFCB\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/8E5FD62F-6E00-4C85-B5C4-D258AD397B83.jpeg\"}, \"SpaceId\": \"96D93\", \"LayerId\": \"64B0D\"},{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/353A2EE1-DE36-4E7B-963F-B6D17257A2F5.png\"}, \"SpaceId\": \"4887A\", \"LayerId\": \"55E07\"}]}"
   }
 }
