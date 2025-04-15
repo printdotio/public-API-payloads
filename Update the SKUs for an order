@@ -1,6 +1,6 @@
 {
-  "method": "POST",
-  "url": "https://api.print.io/api/updateOrder/520718/ItemSku",
+  "method": "PUT",
+  "url": "https://api.print.io/api/orderItems",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -9,6 +9,10 @@
     }
   ],
   "queryString": [
+    {
+      "name": "orderId",
+      "value": "52071"
+    }
     {
       "name": "recipeid",
       "value": "00000000-0000-0000-0000-000000000000"
@@ -20,6 +24,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": ""
+    "text": "{\n    \"OrderItemUpdates\": [\n        {\n            \"OrderItemId\": 34930224,\n            \"NewPRPSku\": \"DadCaps-Embroidery-DarkGrey-W\"\n        }\n    ]\n}"
   }
 }
