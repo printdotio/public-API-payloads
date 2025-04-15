@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "url": "https://api.print.io/api/v/5/source/api/orders/",
+  "url": "https://api.print.io/api/v/5/source/api/orders",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -10,12 +10,12 @@
   ],
   "queryString": [
     {
-      "name": "recipeid",
-      "value": "f255af6f-9614-4fe2-aa8b-1b77b936d9d6"
-    },
-    {
       "name": "id",
       "value": "13-f91acc87-bd23-40df-91f4-72dad9a3c971"
+    },
+    {
+      "name": "recipeid",
+      "value": "fc366942-d5d1-4a05-ac62-4fcfb458427"
     }
   ]
 }
