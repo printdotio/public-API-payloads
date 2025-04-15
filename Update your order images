@@ -24,6 +24,6 @@
   ],
   "postData": {
     "mimeType": "application/json; charset=utf-8",
-    "text": "{\n  \"Images\": [\n    {\n      \"OrderItemId\": 1066980,\n      \"SpaceId\": \"CC38D\",\n      \"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/8E5FD62F-6E00-4C85-B5C4-D258AD397B83.jpeg\"     }\n  ]\n}"
+    "text": "{\n  \"Images\": [\n    {\n      \"OrderItemId\": 1066980,\n      \"SpaceId\": \"CC38D\",\n      \"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/8E5FD62F-6E00-4C85-B5C4-D258AD397B83.jpeg\"\n     }\n  ]\n}"
   }
 }
