@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "url": "https://api.print.io/api/v/5/source/api/orderbilling/",
+  "url": "https://api.print.io/api/v/5/source/api/orderbilling",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -9,6 +9,10 @@
     }
   ],
   "queryString": [
+    {
+      "name": "orderId",
+      "value": "520718"
+    },
     {
       "name": "recipeId",
       "value": "fc366942-d5d1-4a05-ac62-4fcfb458427"
