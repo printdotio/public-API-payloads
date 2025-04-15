@@ -24,6 +24,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\n    \"OrderItemUpdates\": [\n        {\n            \"OrderItemId\": 34930224,\n            \"NewPRPSku\": \"DadCaps-Embroidery-DarkGrey-W\"\n        }\n    ]\n}"
+    "text": "{\n    \"OrderItemUpdates\": [\n        {\n            \"OrderItemId\": 34930224,\n            \"NewPRPSku\": \"Apparel-DTG-TShirt-Bella-6400-M-BlackHeather-Womens-CFCB\"\n        }\n    ]\n}"
   }
 }
