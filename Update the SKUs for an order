@@ -1,6 +1,6 @@
 {
   "method": "PUT",
-  "url": "https://api.print.io/api/orderItems",
+  "url": "https://api.print.io/api/orderItems/",
   "httpVersion": "HTTP/1.1",
   "headers": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "orderId",
       "value": "52071"
-    }
+    },
     {
       "name": "recipeid",
       "value": "00000000-0000-0000-0000-000000000000"
