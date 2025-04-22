@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"SKU\":\"Apparel-DTG-TShirt-Bella-6400-M-BlackHeather-Womens-CFCB\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/8E5FD62F-6E00-4C85-B5C4-D258AD397B83.jpeg\"}, \"SpaceId\": \"96D93\", \"LayerId\": \"64B0D\"},{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/353A2EE1-DE36-4E7B-963F-B6D17257A2F5.png\"}, \"SpaceId\": \"4887A\", \"LayerId\": \"55E07\"}]}"
+    "text": "{\r\n   \"SKU\":\"Apparel-DTG-TShirt-Bella-6400-M-BlackHeather-Womens-CFCB\",\r\n   \"Template\":\"Single\",\r\n   \"Images\":[\r\n      {\r\n         \"Image\":{\r\n            \"Url\":\"https:\/\/d3d6kbc7r9kabj.cloudfront.net\/widget-live\/8E5FD62F-6E00-4C85-B5C4-D258AD397B83.jpeg\"\r\n         },\r\n         \"SpaceId\":\"96D93\",\r\n         \"LayerId\":\"64B0D\"\r\n      },\r\n      {\r\n         \"Image\":{\r\n            \"Url\":\"https:\/\/d3d6kbc7r9kabj.cloudfront.net\/widget-live\/353A2EE1-DE36-4E7B-963F-B6D17257A2F5.png\"\r\n         },\r\n         \"SpaceId\":\"4887A\",\r\n         \"LayerId\":\"55E07\"\r\n      }\r\n   ]\r\n}"
   }
 }
