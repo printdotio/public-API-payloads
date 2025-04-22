@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"SKU\":\"FramedCanvs-5x7-Black\",\"Template\":\"Single\",\"Images\":[{\"Image\":{\"Url\":\"https://d3d6kbc7r9kabj.cloudfront.net/widget-live/30728_B_-72ff391a3aa24f23be8dca32a2e6822a.jpg\",\"MaxFit\":\"true\",\"X1\":677,\"X2\":3152,\"Y1\":72,\"Y2\":1227}}]}"
+    "text": "{\r\n   \"SKU\":\"FramedCanvs-5x7-Black\",\r\n   \"Template\":\"Single\",\r\n   \"Images\":[\r\n      {\r\n         \"Image\":{\r\n            \"Url\":\"https:\/\/d3d6kbc7r9kabj.cloudfront.net\/widget-live\/30728_B_-72ff391a3aa24f23be8dca32a2e6822a.jpg\",\r\n            \"MaxFit\":\"true\",\r\n            \"X1\":677,\r\n            \"X2\":3152,\r\n            \"Y1\":72,\r\n            \"Y2\":1227\r\n         }\r\n      }\r\n   ]\r\n}"
   }
 }

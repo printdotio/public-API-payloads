@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"Items\":[{\"SKU\":\"PhoneCase-GalaxyNote2-Matte\",\"Quantity\":1},{\"SKU\":\"PhoneCase-Glossy-GalaxyNote3\",\"Quantity\":2}],\"ShipToPostalCode\":\"115301\",\"ShipToState\":\"PA\",\"LanguageCode\":\"en\",\"CurrencyCode\":\"USD\",\"ShipToCountry\":\"US\"}"
+    "text": "{\r\n   \"Items\":[\r\n      {\r\n         \"SKU\":\"Apparel-DTG-TShirt-Bella-6400-M-BlackHeather-Womens-CFCB\",\r\n         \"Quantity\":1\r\n      },\r\n      {\r\n         \"SKU\":\"FramedCanvs-5x7-Black\",\r\n         \"Quantity\":2\r\n      }\r\n   ],\r\n   \"ShipToPostalCode\":\"115301\",\r\n   \"ShipToState\":\"PA\",\r\n   \"LanguageCode\":\"en\",\r\n   \"CurrencyCode\":\"USD\",\r\n   \"ShipToCountry\":\"US\"\r\n}"
   }
 }
