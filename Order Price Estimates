@@ -16,6 +16,6 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"ShipToAddress\":{\"Line1\":\"3116OliverStreet\",\"Line2\":\"Arlington\",\"City\":\"Arlington\",\"State\":\"TX\",\"CountryCode\":\"US\",\"PostalCode\":\"33156\"},\"Items\":[{\"SKU\":\"Apparel-DTG-Hoodie-Gildan-18500-XL-DarkGrey-Mens-CF\",\"Quantity\":1,\"ShipType\":\"Standard\"},{\"SKU\":\"Apparel-DTG-TShirt-NL-3600-3XL-Maroon-Mens-CF\",\"Quantity\":1,\"ShipType\":\"Standard\"},{\"SKU\":\"AppleWatchStrap-165-Gold\",\"Quantity\":1,\"ShipType\":\"Standard\"}],\"Payment\":{\"CurrencyCode\":\"USD\",\"PartnerBillingKey\":\"IPrziHCEUoVMTFcqBoeF5up2Mu27DWsEiJAzPo9dOEg=\"}}"
+    "text": "{\r\n   \"ShipToAddress\":{\r\n      \"Line1\":\"3116OliverStreet\",\r\n      \"Line2\":\"Arlington\",\r\n      \"City\":\"Arlington\",\r\n      \"State\":\"TX\",\r\n      \"CountryCode\":\"US\",\r\n      \"PostalCode\":\"33156\"\r\n   },\r\n   \"Items\":[\r\n      {\r\n         \"SKU\":\"Apparel-DTG-Hoodie-Gildan-18500-XL-DarkGrey-Mens-CF\",\r\n         \"Quantity\":1,\r\n         \"ShipType\":\"Standard\"\r\n      },\r\n      {\r\n         \"SKU\":\"Apparel-DTG-TShirt-NL-3600-3XL-Maroon-Mens-CF\",\r\n         \"Quantity\":1,\r\n         \"ShipType\":\"Standard\"\r\n      },\r\n      {\r\n         \"SKU\":\"FramedCanvs-5x7-Black\",\r\n         \"Quantity\":1,\r\n         \"ShipType\":\"Standard\"\r\n      }\r\n   ],\r\n   \"Payment\":{\r\n      \"CurrencyCode\":\"USD\",\r\n      \"PartnerBillingKey\":\"IPrziHCEUoVMTFcqBoeF5up2Mu27DWsEiJAzPo9dOEg=\"\r\n   }\r\n}"
   }
 }
